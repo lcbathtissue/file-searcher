@@ -1,0 +1,446 @@
+C:\\\Documents and Settings
+C:\\\System Volume Information
+C:\\\$RECYCLE.BIN\S-1-5-18
+C:\\\$RECYCLE.BIN\S-1-5-21-3079831437-3434033573-1270197343-500
+C:\\\$RECYCLE.BIN\S-1-5-21-394459719-3109150260-4215633188-1000
+C:\\\Program Files\WindowsApps
+C:\\\ProgramData\Application Data
+C:\\\ProgramData\Desktop
+C:\\\ProgramData\Documents
+C:\\\ProgramData\Packages
+C:\\\ProgramData\Start Menu
+C:\\\ProgramData\Templates
+C:\\\ProgramData\WindowsHolographicDevices
+C:\\\Users\Default User
+C:\\\Windows\LiveKernelReports
+C:\\\Windows\Minidump
+C:\\\Windows\ModemLogs
+C:\\\Windows\Prefetch
+C:\\\Windows\ServiceState
+C:\\\Windows\SystemTemp
+C:\\\Windows\Temp
+C:\\\Program Files (x86)\ASUS\CrashReports
+C:\\\Program Files (x86)\Google\CrashReports
+C:\\\ProgramData\Microsoft\Diagnosis
+C:\\\ProgramData\Microsoft\SmsRouter
+C:\\\ProgramData\Microsoft\Spectrum
+C:\\\ProgramData\NVIDIA Corporation\NvTelemetry
+C:\\\ProgramData\Origin\ServiceLogs
+C:\\\ProgramData\VMware\VMware USB Arbitration Service
+C:\\\temp\NVRTXVoice\NvAFX
+C:\\\temp\NVRTXVoice\NVI2
+C:\\\temp\NVRTXVoice\NvRTXVAD
+C:\\\Users\All Users\Application Data
+C:\\\Users\All Users\Desktop
+C:\\\Users\All Users\Documents
+C:\\\Users\All Users\Packages
+C:\\\Users\All Users\Start Menu
+C:\\\Users\All Users\Templates
+C:\\\Users\All Users\WindowsHolographicDevices
+C:\\\Users\CLX Ra\Application Data
+C:\\\Users\CLX Ra\Cookies
+C:\\\Users\CLX Ra\Local Settings
+C:\\\Users\CLX Ra\My Documents
+C:\\\Users\CLX Ra\NetHood
+C:\\\Users\CLX Ra\PrintHood
+C:\\\Users\CLX Ra\Recent
+C:\\\Users\CLX Ra\SendTo
+C:\\\Users\CLX Ra\Start Menu
+C:\\\Users\CLX Ra\Templates
+C:\\\Users\Default\Application Data
+C:\\\Users\Default\Cookies
+C:\\\Users\Default\Local Settings
+C:\\\Users\Default\My Documents
+C:\\\Users\Default\NetHood
+C:\\\Users\Default\PrintHood
+C:\\\Users\Default\Recent
+C:\\\Users\Default\SendTo
+C:\\\Users\Default\Start Menu
+C:\\\Users\Default\Templates
+C:\\\Windows\appcompat\Programs
+C:\\\Windows\Provisioning\Autopilot
+C:\\\Windows\security\audit
+C:\\\Windows\security\cap
+C:\\\Windows\ServiceProfiles\lkClassAds
+C:\\\Windows\ServiceProfiles\LocalService
+C:\\\Windows\ServiceProfiles\NetworkService
+C:\\\Windows\System32\config
+C:\\\Windows\System32\Configuration
+C:\\\Windows\System32\DriverState
+C:\\\Windows\System32\ias
+C:\\\Windows\System32\MsDtc
+C:\\\Windows\System32\networklist
+C:\\\Windows\System32\RsFx
+C:\\\Windows\System32\SleepStudy
+C:\\\Windows\System32\sru
+C:\\\Windows\System32\Tasks
+C:\\\Windows\System32\Tasks_Migrated
+C:\\\Windows\System32\WDI
+C:\\\Windows\SysWOW64\config
+C:\\\Windows\SysWOW64\Configuration
+C:\\\Windows\SysWOW64\Msdtc
+C:\\\Windows\SysWOW64\networklist
+C:\\\Windows\SysWOW64\sru
+C:\\\Windows\SysWOW64\Tasks
+C:\\\inetpub\logs\LogFiles\FTPSVC2
+C:\\\ProgramData\ESET\ESET Security\Diagnostics
+C:\\\ProgramData\Microsoft\NetFramework\BreadcrumbStore
+C:\\\ProgramData\Microsoft\Network\Downloader
+C:\\\ProgramData\Microsoft\Provisioning\AssetCache
+C:\\\ProgramData\Microsoft\Search\Data
+C:\\\ProgramData\Microsoft\Windows\AppRepository
+C:\\\ProgramData\Microsoft\Windows\Hyper-V
+C:\\\ProgramData\Microsoft\Windows\LfSvc
+C:\\\ProgramData\Microsoft\Windows\Models
+C:\\\ProgramData\Microsoft\Windows\PackagedEventProviders
+C:\\\ProgramData\Microsoft\Windows\Power Efficiency Diagnostics
+C:\\\ProgramData\Microsoft\Windows\SystemData
+C:\\\ProgramData\Microsoft\Windows\wfp
+C:\\\ProgramData\Microsoft\Windows Defender\Clean Store
+C:\\\ProgramData\Microsoft\Windows Defender\Features
+C:\\\ProgramData\Microsoft\Windows Defender\LocalCopy
+C:\\\ProgramData\Microsoft\Windows Defender\Network Inspection System
+C:\\\ProgramData\Microsoft\Windows Defender\Quarantine
+C:\\\ProgramData\Microsoft\Windows Defender\Scans
+C:\\\ProgramData\Microsoft\Windows Defender\Support
+C:\\\ProgramData\Microsoft\Windows NT\MSFax
+C:\\\Users\All Users\Microsoft\Diagnosis
+C:\\\Users\All Users\Microsoft\SmsRouter
+C:\\\Users\All Users\Microsoft\Spectrum
+C:\\\Users\All Users\NVIDIA Corporation\NvTelemetry
+C:\\\Users\All Users\Origin\ServiceLogs
+C:\\\Users\All Users\VMware\VMware USB Arbitration Service
+C:\\\Users\CLX Ra\Documents\My Music
+C:\\\Users\CLX Ra\Documents\My Pictures
+C:\\\Users\CLX Ra\Documents\My Videos
+C:\\\Users\Default\Documents\My Music
+C:\\\Users\Default\Documents\My Pictures
+C:\\\Users\Default\Documents\My Videos
+C:\\\Users\Public\Documents\My Music
+C:\\\Users\Public\Documents\My Pictures
+C:\\\Users\Public\Documents\My Videos
+C:\\\Windows\System32\Com\dmp
+C:\\\Windows\System32\drivers\DriverData
+C:\\\Windows\System32\inetsrv\config
+C:\\\Windows\System32\spool\SERVERS
+C:\\\Windows\System32\wbem\MOF
+C:\\\Windows\SysWOW64\Com\dmp
+C:\\\Windows\SysWOW64\inetsrv\Config
+C:\\\ProgramData\Microsoft\Crypto\PCPKSP\WindowsAIK
+C:\\\ProgramData\Microsoft\Windows\WindowsApps\Microsoft.GamingServices_3.58.14001.0_x64__8wekyb3d8bbwe
+C:\\\ProgramData\Microsoft\Windows\WindowsApps\Microsoft.GamingServices_3.58.25004.0_x64__8wekyb3d8bbwe
+C:\\\ProgramData\Microsoft\Windows\WindowsApps\Microsoft.GamingServices_3.59.1001.0_x64__8wekyb3d8bbwe
+C:\\\ProgramData\Microsoft\Windows\WindowsApps\Microsoft.GamingServices_3.59.11001.0_x64__8wekyb3d8bbwe
+C:\\\ProgramData\Microsoft\Windows\WindowsApps\Microsoft.GamingServices_3.60.12001.0_x64__8wekyb3d8bbwe
+C:\\\ProgramData\Microsoft\Windows\WindowsApps\Microsoft.GamingServices_3.62.18001.0_x64__8wekyb3d8bbwe
+C:\\\ProgramData\Microsoft\Windows\WindowsApps\Microsoft.GamingServices_3.62.4001.0_x64__8wekyb3d8bbwe
+C:\\\ProgramData\Microsoft\Windows\WindowsApps\Microsoft.GamingServices_3.63.16003.0_x64__8wekyb3d8bbwe
+C:\\\ProgramData\Microsoft\Windows\WindowsApps\Microsoft.GamingServices_3.63.22003.0_x64__8wekyb3d8bbwe
+C:\\\ProgramData\Microsoft\Windows\WindowsApps\Microsoft.GamingServices_3.63.31001.0_x64__8wekyb3d8bbwe
+C:\\\ProgramData\SOLIDWORKS Electrical\MSSQL12.TEW_SQLEXPRESS\MSSQL\Backup
+C:\\\ProgramData\SOLIDWORKS Electrical\MSSQL12.TEW_SQLEXPRESS\MSSQL\DATA
+C:\\\ProgramData\SOLIDWORKS Electrical\MSSQL12.TEW_SQLEXPRESS\MSSQL\JOBS
+C:\\\ProgramData\SOLIDWORKS Electrical\MSSQL12.TEW_SQLEXPRESS\MSSQL\Log
+C:\\\Users\All Users\ESET\ESET Security\Diagnostics
+C:\\\Users\All Users\Microsoft\NetFramework\BreadcrumbStore
+C:\\\Users\All Users\Microsoft\Network\Downloader
+C:\\\Users\All Users\Microsoft\Provisioning\AssetCache
+C:\\\Users\All Users\Microsoft\Search\Data
+C:\\\Users\All Users\Microsoft\Windows\AppRepository
+C:\\\Users\All Users\Microsoft\Windows\Hyper-V
+C:\\\Users\All Users\Microsoft\Windows\LfSvc
+C:\\\Users\All Users\Microsoft\Windows\Models
+C:\\\Users\All Users\Microsoft\Windows\PackagedEventProviders
+C:\\\Users\All Users\Microsoft\Windows\Power Efficiency Diagnostics
+C:\\\Users\All Users\Microsoft\Windows\SystemData
+C:\\\Users\All Users\Microsoft\Windows\wfp
+C:\\\Users\All Users\Microsoft\Windows Defender\Clean Store
+C:\\\Users\All Users\Microsoft\Windows Defender\Features
+C:\\\Users\All Users\Microsoft\Windows Defender\LocalCopy
+C:\\\Users\All Users\Microsoft\Windows Defender\Network Inspection System
+C:\\\Users\All Users\Microsoft\Windows Defender\Quarantine
+C:\\\Users\All Users\Microsoft\Windows Defender\Scans
+C:\\\Users\All Users\Microsoft\Windows Defender\Support
+C:\\\Users\All Users\Microsoft\Windows NT\MSFax
+C:\\\Users\CLX Ra\AppData\Local\Application Data
+C:\\\Users\CLX Ra\AppData\Local\ElevatedDiagnostics
+C:\\\Users\CLX Ra\AppData\Local\History
+C:\\\Users\CLX Ra\AppData\Local\Temporary Internet Files
+C:\\\Users\Default\AppData\Local\Application Data
+C:\\\Users\Default\AppData\Local\History
+C:\\\Users\Default\AppData\Local\Temporary Internet Files
+C:\\\Windows\Resources\Themes\aero\VSCache
+C:\\\Windows\System32\LogFiles\WMI\RtBackup
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_ADelRCP.exe_c9c3348410a0a8c9239947d7ec3baee6ed65893_8b27915e_32126137-3de9-40f5-9cdd-fbd5c2b394a4
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_AUDIODG.EXE_9ffa298ae078aedbb65e9188a84541b65a9d3_77528bc2_84bffb75-c8ef-434b-8186-01072f2141c2
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_BlackOpsColdWar._cf19c2fb36579fe052db8fc5751b1f524edc7_7d26ef74_75a8c938-ed74-45e0-a44b-d90991acf751
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_Blizzard Uninsta_ab874fb8885a2ba4a9faaeaf19e7aabaf35d2d4_3a49c940_7e6b8bec-6826-43d4-b642-a1610689fa86
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_DtsApo4Service.e_a6fbd8541b6f28dac69c3b325975c7be96fe6947_0726838e_82ec318e-9c25-4df1-ae17-90ac3ffccce2
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_dwm.exe_df46284e91c25dcbef76b5b01b8fa9e5cf2b3f3_fd96e670_bc6c6c7c-31d8-4f34-88c8-f0064361f50d
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_ekrn.exe_e51bba5a30ea2fb2025b585f43bb93544b51e18_a5fa4811_d482c305-99ba-42b2-a82d-b149c2abd4ee
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_EpicGamesLaunche_392b8770e07bbc2514816a227a6241beb2e2ab8a_859977ce_0c93c917-ffca-4db6-9a85-96a96e5bf218
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_EpicGamesLaunche_392b8770e07bbc2514816a227a6241beb2e2ab8a_859977ce_5c6310d5-f312-4d3c-817a-0fede39c0c04
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_EpicGamesLaunche_392b8770e07bbc2514816a227a6241beb2e2ab8a_859977ce_9c2632a9-6ec6-4948-880c-1f06526f8937
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_EpicGamesLaunche_dba24278493b374b8d04cd9011efea2693e95_dd8e74bd_db342094-4545-4d7f-ab94-7e98da761056
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_Explorer.EXE_69995a4481bc1ba4e6c96a5429e5fa5c93f16a_35669a4d_cf90b96e-e758-446e-965b-9950de640ca2
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_Explorer.EXE_88c3f17f2f1104ae5cc41d497e92437a869f_284e75c3_8efa49a4-7903-4bf1-ba01-c297ff04d3db
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_explorer.exe_c8714de9942313863254ab1750751ac3fe37416e_c618b803_d2d23fa6-7d16-4f9f-9d5c-98201290c1b0
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_Explorer.EXE_ccf9873bf3e0c24da064b22786863b1b18408cb3_d96a1f00_103baa87-e145-4541-b82e-0e78d26a87fe
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_firstCPlusPlusPr_d0bdd0d58e2d1d85544a78cdafdde114b93328c_3c169652_58862a38-0d07-4fac-b44a-22796777c983
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_firstCPlusPlusPr_d0bdd0d58e2d1d85544a78cdafdde114b93328c_3c169652_797cfe22-568e-4ae8-ac4f-22175bc756da
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_firstCProject.ex_993db073acb951a64255d3794f71f066573930b8_04ff0236_ac1cbac4-f4d9-4066-a077-5ec5b7fd59db
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_firstCProject.ex_9d638402d50df34511ef03b4138207beb96ef1e_4e5050da_db919001-2754-4c64-9e9a-dbccbc033b19
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_firstCProject.ex_c5324b826935d5f6b67c9a192df49e2ab1d451_e74231a2_ebacba3e-71e0-4aa6-ba08-64468beb9cbf
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_firstcsharpproje_2f7cbccda6f8c41381627a1161066287b12613_00000000_d97f5798-050f-4eb1-9703-92e602c3a304
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_firstcsharpproje_6bd1a86c39ba2bde9ba2d1efe543dd34256c86_00000000_1a4ac52c-274f-42cc-803a-091f5b184f1d
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_FlightSimulator._43341c13f7f2736dced545b9443cf992958dd_8804d4d1_6bd5415b-b7d4-4038-92ca-33289872fc33
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_FlightSimulator._ae7902cdb14ed5d68fdbd1b5968199b9c75_38349a76_1b3784f8-80a9-4e99-b80b-86749d967e74
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_FlightSimulator._ae7902cdb14ed5d68fdbd1b5968199b9c75_38349a76_31bd2439-da39-4c29-a53f-8a2badf0b444
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_LaunchPad.exe_e24642c9a3d126dd134f5c456eb83d19986843f_670b3dc7_b1729922-b89f-4829-8d7e-1c83d5956788
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_Microsoft.Flight_0b61f5ef064bc6fc0e8afe0868ae3fd0b4e095_4ec4e7f3_bee6298d-d2fa-4b21-ac6e-1e37930ae991
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_Microsoft.Flight_0b61f5ef064bc6fc0e8afe0868ae3fd0b4e095_4ec4e7f3_d43b4e7a-a703-431c-b00d-90e2fe1be8ff
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_Microsoft.Flight_358139c9863afca3ef3fbab18fc4e4d1f58e8d2_4ec4e7f3_13ede598-4d48-4d3d-bd39-569391864c11
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_Microsoft.Flight_358139c9863afca3ef3fbab18fc4e4d1f58e8d2_4ec4e7f3_190ee038-c740-4ba8-86b8-bb233c83a04b
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_Microsoft.Flight_358139c9863afca3ef3fbab18fc4e4d1f58e8d2_4ec4e7f3_1d7a8bd0-a017-42c5-b06d-1486f95d5cd9
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_Microsoft.Flight_358139c9863afca3ef3fbab18fc4e4d1f58e8d2_4ec4e7f3_8060bbe9-e0ba-40d6-b9c2-64f3f817c366
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_Microsoft.Flight_358139c9863afca3ef3fbab18fc4e4d1f58e8d2_4ec4e7f3_9f2266d8-9caa-41ba-8fea-4dea9f8334c2
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_Microsoft.Flight_358139c9863afca3ef3fbab18fc4e4d1f58e8d2_4ec4e7f3_b0ed65f0-38e4-40af-bd83-a2121a77b894
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_Microsoft.Flight_358139c9863afca3ef3fbab18fc4e4d1f58e8d2_4ec4e7f3_b5e28dfd-d207-419f-a3f9-c8bf83f9ef78
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_Microsoft.Flight_358139c9863afca3ef3fbab18fc4e4d1f58e8d2_4ec4e7f3_cab_f3624e9a-5130-4edb-9849-25b6adfeffc7
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_Microsoft.Flight_358139c9863afca3ef3fbab18fc4e4d1f58e8d2_4ec4e7f3_cd4f7de7-1758-46ed-aca8-00a7513e831c
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_Microsoft.Flight_358139c9863afca3ef3fbab18fc4e4d1f58e8d2_4ec4e7f3_d10159e1-f0f1-4b3d-9349-f9876470cb19
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_Microsoft.Flight_fd569b86fcfe727a7992b110d565f0bd12df2767_4ec4e7f3_3452d6d4-85d6-4e53-9e0b-223fc2965ced
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_Microsoft.Window_3daf2e20f4cd2b844c4614f82fa312fd412ac_76531c88_4c9e59cf-5b4b-4fae-9835-94a6814caabc
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_MsiExec.exe_5841411215ce7e63d3ac4444dfba6ce3ff99366_9c40698c_6a906bc7-0be4-4401-b46d-cd7c41f570fb
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_NVDisplay.Contai_786519f272c7163fd436dc33aed08283ff8aa2e_1626f7e3_6608ae3f-2cf9-4da6-87d4-a4b9122b78df
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_NVIDIA RTX Voice_9c5cd6f9a6f51601b9bb2ed6afff3641bdfc80_62405704_2d7b526d-49dd-48e4-8492-45277cd757b7
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_NVIDIA RTX Voice_9c5cd6f9a6f51601b9bb2ed6afff3641bdfc80_62405704_bae928f9-3fa4-4cca-b83f-45b51fa81a31
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_NVIDIA RTX Voice_f454bf21e663bbd164e6d4a6445d23c91fb99_62405704_e621d665-413a-4cc4-8fd9-ea0baba80179
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_OLicenseHeartbea_693667e3e6d15dcc91fbbd353c952d226eec_337d8e3c_0c632d42-91b6-4938-af25-334f9a65d317
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_OLicenseHeartbea_693667e3e6d15dcc91fbbd353c952d226eec_337d8e3c_10d1226f-0d73-4540-bd04-f2e409fb57fd
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_OLicenseHeartbea_693667e3e6d15dcc91fbbd353c952d226eec_337d8e3c_19ccde71-3be3-45d5-bf13-0016327ce074
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_OLicenseHeartbea_693667e3e6d15dcc91fbbd353c952d226eec_337d8e3c_397abd95-effe-428f-9ccb-479df81fd5eb
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_OLicenseHeartbea_693667e3e6d15dcc91fbbd353c952d226eec_337d8e3c_aca7f070-a6c9-4a83-845a-bcf1eafd5c98
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_OLicenseHeartbea_693667e3e6d15dcc91fbbd353c952d226eec_337d8e3c_b2737c93-93e0-4c11-b9c6-53398dbbb22f
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_OLicenseHeartbea_693667e3e6d15dcc91fbbd353c952d226eec_337d8e3c_bf275161-9397-49b8-8506-e17a9831a27f
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_OLicenseHeartbea_693667e3e6d15dcc91fbbd353c952d226eec_337d8e3c_c05ab3cd-ec2b-401a-8a9a-9bac991e5fed
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_python.exe_7ee5a3509e5a1df130cab9d3f2f559fe8e553b9f_9e62ca23_53c02678-8fe8-41cb-8894-4d532db4d6e2
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_python.exe_7ee5a3509e5a1df130cab9d3f2f559fe8e553b9f_9e62ca23_bfc9005c-8054-4ac0-9a0f-b66ed03a2ecc
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_python.exe_a553e578f577e6e695b12d1cbd8c042b551b455_9e62ca23_019ce52c-eefd-450c-a75d-cf3c445da2aa
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_python.exe_a553e578f577e6e695b12d1cbd8c042b551b455_9e62ca23_1899dfd8-e1f9-45c1-9017-6cf8a67d16b0
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_python.exe_a553e578f577e6e695b12d1cbd8c042b551b455_9e62ca23_1bed13be-8d7c-4de6-8661-bede0f0cfc36
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_python.exe_a553e578f577e6e695b12d1cbd8c042b551b455_9e62ca23_2e1a8218-15ee-46fa-8f6a-8710d79dd69f
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_python.exe_a553e578f577e6e695b12d1cbd8c042b551b455_9e62ca23_463fe481-aa0d-4db7-9001-cc163951b19a
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_python.exe_a553e578f577e6e695b12d1cbd8c042b551b455_9e62ca23_5dcae454-d7db-4136-9734-138f94475181
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_python.exe_a553e578f577e6e695b12d1cbd8c042b551b455_9e62ca23_5e3b7c0c-5c9f-4f10-9d42-c1453618963e
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_python.exe_a553e578f577e6e695b12d1cbd8c042b551b455_9e62ca23_62970758-3e18-4e35-b7b4-18e4cb16c9f1
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_python.exe_a553e578f577e6e695b12d1cbd8c042b551b455_9e62ca23_773cb628-2516-43d7-818d-e04fd0eb42e8
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_python.exe_a553e578f577e6e695b12d1cbd8c042b551b455_9e62ca23_7f9384da-a059-4a65-99ca-28d24f69afc4
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_python.exe_a553e578f577e6e695b12d1cbd8c042b551b455_9e62ca23_9ac9abdd-e880-4400-8cb8-b4a0d30dc09e
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_python.exe_a553e578f577e6e695b12d1cbd8c042b551b455_9e62ca23_9e507933-43af-4d27-adef-59c0dfd3718d
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_python.exe_a553e578f577e6e695b12d1cbd8c042b551b455_9e62ca23_b42f05ac-0ecc-4bf9-85e4-dc30743cc636
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_python.exe_a553e578f577e6e695b12d1cbd8c042b551b455_9e62ca23_b6e8d508-2f87-482d-b404-a2489936cde9
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_python.exe_a553e578f577e6e695b12d1cbd8c042b551b455_9e62ca23_b8fc560c-da4f-4927-9659-7a4e776da1e2
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_python.exe_a553e578f577e6e695b12d1cbd8c042b551b455_9e62ca23_bb13a990-d72f-48ac-b8b4-6935b3ba2580
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_python.exe_a553e578f577e6e695b12d1cbd8c042b551b455_9e62ca23_cab_735d2e5f-b174-4b56-9fae-453e4d867362
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_python.exe_a553e578f577e6e695b12d1cbd8c042b551b455_9e62ca23_e21ddfa3-f086-40d2-9405-bf47ddebc76d
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_python.exe_a553e578f577e6e695b12d1cbd8c042b551b455_9e62ca23_f8dfde9e-dc91-4b1c-a3a4-2aef764539f3
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_RGBFusion.exe_2c9aaaff9288915ed051bcfb35d644f7c4aa787c_75f9b370_3ed78c4e-4e25-43dc-a8e0-150985f6f26c
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_RGBFusion.exe_2c9aaaff9288915ed051bcfb35d644f7c4aa787c_75f9b370_e3ea4d04-bc05-4197-ad8d-02bb174d1616
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_RGBFusion.exe_513b971afb333d6ee7d16bf0f19132c625e23_75f9b370_129df7d2-274e-4481-83ba-cf7e98a2060a
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_RGBFusion.exe_5eb71e7c1a5f60f47d763d6915b3ff7546f1cde8_75f9b370_5ca4a8b1-b32b-4e9c-916c-412d3081fc6a
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_RGBFusion.exe_5eb71e7c1a5f60f47d763d6915b3ff7546f1cde8_75f9b370_9f25fa17-6f6e-493e-b524-98f3a1f7738b
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_RGBFusion.exe_5eb71e7c1a5f60f47d763d6915b3ff7546f1cde8_75f9b370_b2cd101c-441f-48f4-accc-829f8e0c460d
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_RGBFusion.exe_86e6a801311527dab3bd55de7a2a7add439a4_75f9b370_68b1e497-e0bb-4b5a-89d6-6c66a9934cc3
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_RGBFusion.exe_86e6a801311527dab3bd55de7a2a7add439a4_75f9b370_d0d07606-5b7e-4d54-af54-edc4ac950e32
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_RGBFusion.exe_a3cdd7f980411ef42031faae5ac9eaf4c9f07452_75f9b370_02324187-4e37-4c21-a917-bf9ea81bef61
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_RGBFusion.exe_a3cdd7f980411ef42031faae5ac9eaf4c9f07452_75f9b370_818384e3-9d3a-4bd5-907f-e22f1eebe20e
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_RGBFusion.exe_e139d61b1822e8beda962c75eb656f1493e60d_75f9b370_112d4995-f698-4361-8e8d-480cae35a858
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_RGBFusion.exe_e139d61b1822e8beda962c75eb656f1493e60d_75f9b370_2fff3841-dbde-4df4-a108-8ddece1ef039
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_RGBFusion.exe_e139d61b1822e8beda962c75eb656f1493e60d_75f9b370_58162286-01ed-42f9-b16b-ce9bdc1e4779
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_RGBFusion.exe_e139d61b1822e8beda962c75eb656f1493e60d_75f9b370_637a7773-9baa-46be-a976-d08c7e2994e0
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_RGBFusion.exe_e139d61b1822e8beda962c75eb656f1493e60d_75f9b370_edd6daa0-8e4e-4be7-84e5-d1220fdcd716
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_slack.exe_60d9f2a1893f45cf4b3958f66af4e1b99e68a_933b4395_14e4107e-2434-412e-9829-e0097d03fcba
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_slack.exe_60d9f2a1893f45cf4b3958f66af4e1b99e68a_933b4395_6ad12a50-44ec-4179-9f0e-cafc38411f7c
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_slack.exe_60d9f2a1893f45cf4b3958f66af4e1b99e68a_933b4395_abad1850-64a6-4c49-aa3b-a669f1b6b297
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_slack.exe_edff263a722d706cc7d2bdc460228fa7fa9f20_6368d0ae_4b9796b0-faab-483f-ad33-a3dca673fb79
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_slack.exe_edff263a722d706cc7d2bdc460228fa7fa9f20_6368d0ae_6cd35e62-072b-4fc4-a17f-88a5ad57bcba
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_slack.exe_edff263a722d706cc7d2bdc460228fa7fa9f20_6368d0ae_a09a318c-dbce-4bf0-b22e-885b0b3a9945
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_splash.exe_3f839dcb919121eb6fbe7556e1210b4a62ef1_362edcf6_8b20fd55-af1c-4e96-a159-2286d55a309c
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_splash.exe_88ea8aad1a8336b4aa6df1442b3e0dd6783a42a_362edcf6_32885308-d1bd-47c4-a743-c4dbfa438c32
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_splash.exe_a2ea9834d7f6c516f629e46d5681e9af87abe8_362edcf6_7cb9f14f-5d09-48f9-b37b-c132a03df8b7
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_splash.exe_a2ea9834d7f6c516f629e46d5681e9af87abe8_362edcf6_8e46c2d2-0c90-4825-b396-9a859607e0eb
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_svchost.exe_Audi_592e5747fffd4c12c427813a3e7dee7a2b454b3_c0c24a3e_b9a3c71a-3e29-4672-bf70-93fa37932e7c
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_svchost.exe_Even_5b225fbfde5529486799b4dec9967105a52d69_eb6adc72_3288ea82-970e-436a-9691-7e0cc3e7b20c
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_utweb.exe_38a2971c4177fc0748430702abee8aa6e648f_da48caf9_07392320-16ba-4e97-8f87-011785ca1883
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_utweb.exe_673f49f98dfff11114f9cc03b5088f3e8cdc3_da48caf9_2664fcf9-c813-4dad-8c6f-6df57d90f220
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_Wacom_Tablet.exe_649dc50f8949480b32be404aa21c7978b628b9_bf352bda_b667b819-4bbe-414d-8eed-26557af7cbd6
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_WF6.exe_2a868e46c240c12ed9cb92511df1db9ae18e1a6_cf30a044_2601cfc6-97ef-4e61-8246-c8cde15149aa
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_WF6.exe_2a868e46c240c12ed9cb92511df1db9ae18e1a6_cf30a044_a953488d-ba06-4bd2-805f-39926bc07863
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppHang_explorer.exe_c85c8defe5e193b08858b35a3466699e93fac8_6b892db4_dc267d88-e3ff-4a1b-a465-5160e809f69e
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppHang_explorer.exe_e24ea637b48d75142da0fb5da7bec6eef41d9957_b5ec2ccb_359c6a2d-c32e-436b-8063-12d8849e2d94
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppHang_Microsoft.YourPh_35a05560e7dcc4eaf4e415106211499fd27a9387_ea1efcb7_ca65e004-7f5d-4b48-babc-8b258e4c9837
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppHang_Microsoft.YourPh_fcb4f1a76db22cad69b48cb62021e1ad49276a_eda62df1_a3cf5791-baf0-4849-8b69-73602c41a67e
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\AppHang_SndVol.exe_ce7cb41067e62f448ee4a1c70cf29dc86859bf_0853a9f4_85335926-df98-4350-b363-3c0909f3ae3a
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_10.0.19041.1022__b0f14a2fdb0ad12dca9c36b770d6e4ba33c24_00000000_5d40f0a4-5e0e-4447-ace8-6130d07aa6f9
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_10.0.19041.1081__692c63f61f7a2941b74cd1a4eb6af190c878f059_00000000_cc3af90e-cc95-46ad-a668-5378a663170e
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_10.0.19041.1081__836fc813ddf69982b8dfd939d4773f3d35c40_00000000_5dde071e-4e0d-4bb9-bc2d-aedd51edcfde
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_10.0.19041.1161__54a0539ea9d07c7f7937b61396e4682f5157ce79_00000000_9466ea93-c9c6-4ba7-b974-4bc2173f77fc
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_10.0.19041.1220__302f9619b692aca58fe4b121dfa7b853cdfc93e_00000000_2914feca-4c10-498a-9669-65e6c08e41d2
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_10.0.19041.1220__302f9619b692aca58fe4b121dfa7b853cdfc93e_00000000_9c5407c1-5a19-48ff-87bc-951bed783ef3
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_10.0.19041.1310__764fd7936e19847cc6874d54b17db731701e8fc1_00000000_e129dca5-9515-4cea-b5da-7de01f0cbf26
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_10.0.19041.504_1_c3fdee8a9c53f44d7e974c731d2a6a53ec7bb4b_00000000_4c8c083a-9e83-4fb9-a72e-1bfe1efbbeaa
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_10.0.19041.504_1_e659b9af4e42fb4c1a9098dd786ee9f5931c4_00000000_badfd40c-183b-49bc-91f3-3a6218adf1fd
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_10.0.19041.621_1_c9aa1a70a638c717e7ed14b83f4f6df2b86f3d_00000000_11e22049-e720-4780-9c4c-c6092c1d6194
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_10.0.19041.680_1_93a1c12f2bb08a94ced32bbf82c9bd26708b1ab_00000000_6f1f757e-d4e1-49a2-9cda-50597cdd5022
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_10.0.19041.740_1_48a751e691c6e94777b27836d29b17e7ca22_00000000_18163179-7be1-4221-b5c8-1f28f79d5c96
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_10.0.19041.740_1_a85642c9dfe282824c95bcb65907de34d1d65db_00000000_5c83dda0-7847-4ed8-93ac-bcc121be3beb
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_10.0.19041.860_1_4f13a1e5aa1a845f693fc541bd4bffe8750edce_00000000_1a332591-a408-4770-97f9-acd96979caf0
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_10.0.19041.860_1_6cd1f26eb6eb3488f7498eb81568cae55e39e_00000000_c51775c3-2775-47d3-876c-e02d9cf77045
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_10.0.19041.860_1_891e72d5fb3a9bb242549956a9a9befbeb0d_00000000_3f7b8ec8-8a75-4e10-86f9-c7a062636e32
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_10.0.19041.860_1_891e72d5fb3a9bb242549956a9a9befbeb0d_00000000_ced2c33d-e45a-4c92-8851-4703b401c328
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_10.0.19041.860_1_b3cc769f1ad3b637888cfd173b0be8c998618e9_00000000_a47bce6a-c3f1-4b27-baad-07ad477c7777
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_10.0.19041.860_619eb3c859ee9a010b0f9a43ffa6bb6cd513e4_00000000_1448a07c-76a1-42b4-a777-c143b2be57f3
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_10.0.19041.860_619eb3c859ee9a010b0f9a43ffa6bb6cd513e4_00000000_c4578e82-93d1-4d0c-9ce6-f83a13a5f8b6
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_10.0.19041.860_619eb3c859ee9a010b0f9a43ffa6bb6cd513e4_00000000_edf88f40-b47b-4de2-8d3d-1597a12690bd
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_10.0.19041.860_619eb3c859ee9a010b0f9a43ffa6bb6cd513e4_00000000_ef5b9e74-4b9a-44c4-b913-bb013174ca1b
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_10.0.19041.925_1_877ee917729228984c1dcbc0565145159d81d95_00000000_fa504c23-5e2a-4d6b-afcf-12acaca61497
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_10.0.19041.985_1_c121d4fff316c67767a8cebc783cc6dbb8a4053_00000000_56b8873b-c27a-4437-97aa-8b252450d4a1
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_BlackOpsColdWar._70db306f33c3178d46df747b6a546724e76e8b53_38abd482_577134b8-65a5-488c-a151-67b267b2c263
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_BlackOpsColdWar._91db5f8cf7b5d627f55c99478d7f85ec341a87a_406cb5ed_79951adb-4960-4dd6-9349-a00ca690463f
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_BlackOpsMP.exe_4c2274abd2864591dfeb9be6ca2896547ba0e2_cd5f9ad2_8642c6bd-92e5-450b-bb48-c138a43ef720
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_CivilizationV.ex_2155fbf5546ab28b956bf31741786db8db18527_f5c1aa4c_049291fe-4910-4739-ab1c-6dc19b9ecf80
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_CivilizationV.ex_2155fbf5546ab28b956bf31741786db8db18527_f5c1aa4c_175cf3a9-5495-46e8-9cd8-06b5b8b5ee80
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_CivilizationV.ex_2155fbf5546ab28b956bf31741786db8db18527_f5c1aa4c_c3eb53d2-bc55-47ba-8edf-316bfcff7785
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_CivilizationV.ex_447e2fe2578cabd2919843fdbddade71b17fa_f5c1aa4c_cc283e92-e1fa-43c3-9b63-3c22c46530de
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_CivilizationV.ex_571edab6b7f27cfd336ac7f3ee189f6e11536223_f5c1aa4c_f4eab4de-bbeb-405d-90b3-b3b2f3d3ec45
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_DWM_1112d046f42b6cd2e6fcb18192cef48086ea2_00000000_2bde16be-ed0d-41d0-8f01-4b5791f86eb5
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_DWM_1112d046f42b6cd2e6fcb18192cef48086ea2_00000000_2ed1b711-dec7-45e1-941a-67ecd986dc02
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_DWM_1112d046f42b6cd2e6fcb18192cef48086ea2_00000000_6b73d9ef-d5c5-4767-80b2-d42d67cd794f
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_DWM_1112d046f42b6cd2e6fcb18192cef48086ea2_00000000_89fc132f-95f2-4551-b8ae-b49b69a97794
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_DWM_1112d046f42b6cd2e6fcb18192cef48086ea2_00000000_cab_85d23bc1-5b81-4650-bdd0-f28b70f340ee
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_DWM_1112d046f42b6cd2e6fcb18192cef48086ea2_00000000_e2231729-a4fe-4d74-84ca-ec663e51f8ae
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_DWM_1112d046f42b6cd2e6fcb18192cef48086ea2_00000000_e7ffc9d5-f4a7-4fbc-9f49-b4e6781121b1
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_DWM_1112d046f42b6cd2e6fcb18192cef48086ea2_00000000_e97e3670-aefd-4bda-8c0d-36202f4bba8d
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_DWM_8e82ea772aee7fee8588a88ed23caf7b9a041e0_00000000_cab_0af55de3-4c68-4e44-928c-1ac39e99b41e
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_firefox.exe_565a95424c5cc9fec5ca2866d7ea4c525f2aab6_67bbf348_21653927-5f31-4c7e-b25a-e34bb89e772a
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_firefox.exe_bf65a7d5faae51fe65d1a27885bfa6e59ade7_3a8afd9e_a7257b41-87af-491f-8595-d7a82091f771
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_javaw.exe_e2dfa8b39f5b927934c995a5c708ed477cd5f42_6ff2ed9f_18daba04-a62e-40a3-9e77-7b6d1bc53fd2
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_javaw.exe_e2dfa8b39f5b927934c995a5c708ed477cd5f42_6ff2ed9f_3466a060-b9b6-4e62-bc0d-c3123920f2e8
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_javaw.exe_e2dfa8b39f5b927934c995a5c708ed477cd5f42_6ff2ed9f_380082b2-57a4-48c9-a324-2ff331f77569
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_javaw.exe_e2dfa8b39f5b927934c995a5c708ed477cd5f42_6ff2ed9f_c9e43c17-eb5e-4ba3-8a60-2736154656b2
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_javaw.exe_e2dfa8b39f5b927934c995a5c708ed477cd5f42_6ff2ed9f_eac8ff82-30a2-45de-acc2-c67c5618eb26
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_parsecd.exe_6db4b51d67a09cdc85871a2729af91d2874daa4b_994a31f8_03f07f03-d866-4dd7-845b-3ca3c5727d93
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_parsecd.exe_6db4b51d67a09cdc85871a2729af91d2874daa4b_994a31f8_6411d9f2-6f85-4d0f-975f-44782d97aeae
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_parsecd.exe_6db4b51d67a09cdc85871a2729af91d2874daa4b_994a31f8_8943ac01-7599-469c-9a19-5379a3e8122a
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_SDRSharp.exe_66228239f7c92cd78818dec1245d0b53a40a3d_35f395f5_32c2a42b-2cb7-4c7d-b085-0db42d2e3a5b
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_SDRSharp.exe_c0a7626987f7694a38e09d245e840b72a8dc859_35f395f5_f0f41e06-d770-4504-9ffd-c398d44e6aca
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_SLDWORKS.exe_d49f382cd286404bacca35b79d27f089a8d665_43d2eec2_ee8a732c-8b58-4fa4-b73f-657847b8572c
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Critical_WINWORD.EXE_6f35123efef1b1334982646dd87f8de76d832bb8_7b25b100_134eeb0d-5493-4635-aa93-076d026889de
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Kernel_117_c892c3db2d5a88ce70dde09d5e15a81201fca94_00000000_cab_81941662-d36a-4b08-a2d5-dbb785da15ec
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Kernel_12b_a4e5112761d342d3eee11e408414c6237c1f5_00000000_cab_58b3d650-6efe-4a3f-9461-380c30c48aa3
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Kernel_141_104d5eec939b39cbd7d54dfad5ddf26982841_00000000_cab_05d0444a-1ed9-4a4a-92d9-af3375fcab77
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Kernel_141_205c31385b169f92ae1b0c484f6b50f7795615_00000000_cab_328dfd18-8959-4038-a9d3-e4f4f703044a
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Kernel_141_4f86c9138dbd39d9cdbff21df129c991a214bf_00000000_cab_659be045-b8b2-47a2-b812-dc8be2ec03cb
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Kernel_141_85fa9dcf581db747277750b55c26466958e196_00000000_cab_a2b6a39e-9e4d-4c59-bffc-81e9b623fd84
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Kernel_141_99bd462cb4dcb7db3787323216ed33fd92c321ad_00000000_cab_c72e5f36-ea75-4deb-b0c9-c8e0c1ad62de
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Kernel_141_9b1517a7e4c648723df26153d9f540712e53524_00000000_cab_4dbac91e-83ae-4c77-8006-3a58ce6b5345
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Kernel_141_acb2fc47d3a45c11e44c8029b7ec16978ffe5bdb_00000000_cab_78c23160-5874-402a-a82e-25e3718ddc2d
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Kernel_141_d9a17328e61487deea882824e59e3116715f585_00000000_cab_5b1f3a30-9cb4-4c97-9157-3f0a186fc69a
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Kernel_141_da302c7daa2030f8eda111fc7f8e76a21a315e2_00000000_cab_0854885c-1686-475e-b2d3-a5346c02a4eb
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Kernel_141_fe33a7c89923831fefc1a7ba2226622ae336af1_00000000_cab_d0194452-5438-4b68-a594-aedcf8509ddf
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Kernel_144_1f48a26814727575e68ce053b8d9cf62ad5d914d_00000000_cab_a1020311-ce7f-4a8d-a425-32528c72e64f
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Kernel_144_2587b82922d070c6e3b1d3c1357e9e218f4bffd_00000000_cab_d679f20e-854b-41ab-b869-54af993e090c
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Kernel_144_763d8f0b4fcfe1af2d3a15b481c904a88426091_00000000_cab_0fd0cceb-ab4d-49b8-bdab-59594519a4da
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Kernel_144_8c65fae5a3ac7ef03d75da6b9eeb196326b238e_00000000_cab_a3b2dac1-521d-4060-aa2d-16130ee50b01
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Kernel_144_b8c7cdd8b0da673a66aae28bd7dd684972bca1ca_00000000_cab_fcd156ec-7a58-4fcb-8d43-8dbb3f649bbb
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Kernel_144_dbb5ceea47545e78278853edfeb2c178f2ba3cf_00000000_cab_8d36157b-187a-46cf-b172-2f0148cfa4c0
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Kernel_1a6_50c398bf1dfb270142f2f46958735ff739c94db_00000000_cab_b2cb5a36-0299-495e-8426-2ebd58acaa2f
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Kernel_1a8_5037d236f47f2deac2bec146a129f778ed23256_00000000_cab_ff7157d9-18c1-4a1e-b839-58893268a2f2
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Kernel_1a8_c853ca3a6e688bd2d491be783fef2b9aa4ff4652_00000000_cab_1b9b4b09-0867-4f01-869e-43432b62ec70
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Kernel_1a8_c853ca3a6e688bd2d491be783fef2b9aa4ff4652_00000000_cab_1e1be4d0-3a9e-4462-b9ab-9391f65538be
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Kernel_1a8_c853ca3a6e688bd2d491be783fef2b9aa4ff4652_00000000_cab_21a06e65-6754-4959-84e3-e2e7a80f26e6
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Kernel_1a8_c853ca3a6e688bd2d491be783fef2b9aa4ff4652_00000000_cab_7e6df536-c30a-44a9-986c-94b1fd7ea624
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Kernel_1a8_c853ca3a6e688bd2d491be783fef2b9aa4ff4652_00000000_cab_a7f9be60-0cf9-4c63-8539-caf1d12d6f6b
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Kernel_1a8_c853ca3a6e688bd2d491be783fef2b9aa4ff4652_00000000_cab_fccb949c-2e05-4676-bb9d-cc255a506f54
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Kernel_1b8_553962b056506bd26571d81247ffa3f721674449_00000000_cab_79deedca-14aa-413c-b840-10ae0c3aef47
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Kernel_1b8_7ce95fabc19ce5a9b1348effadc0e2289e7aa318_00000000_cab_0c007f77-2cb8-45ef-adac-64674c482039
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Kernel_1b8_7ce95fabc19ce5a9b1348effadc0e2289e7aa318_00000000_cab_2ba223c9-ec9e-463d-818f-d5c2bf292418
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Kernel_1b8_7ce95fabc19ce5a9b1348effadc0e2289e7aa318_00000000_cab_5ccfe4ff-b1f7-47f0-815f-7b7097967469
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Kernel_1b8_7ce95fabc19ce5a9b1348effadc0e2289e7aa318_00000000_cab_65091732-82ec-486e-9f55-d2cbf0dff658
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Kernel_1b8_7ce95fabc19ce5a9b1348effadc0e2289e7aa318_00000000_cab_afe7208e-88a7-4ebd-b8ae-288e97808788
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Kernel_1b8_7ce95fabc19ce5a9b1348effadc0e2289e7aa318_00000000_cab_b63d464f-57e0-4f26-ab44-b969da035523
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\Kernel_5_b249ae203ef5fccbc9dd9748433100e80bbf_00000000_cab_fe28d005-8673-4df7-a232-5f8dd63a9f7a
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_6_1d79b216ac7583b52981a8cd086d7733114550_00000000_4c705e49-f883-4c9c-a1e2-8d8777677fff
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_Microsoft Corpor_b1d126975ff3fb3419a7403941a86365abd0812d_00000000_d8266248-2f86-47f1-8557-cc18ccdb1fef
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_Microsoft Corpor_bf5cd2d3331faa4af8a74c614eb43ebc69d577e_00000000_d7c7e3e7-cec2-4381-be1c-6130a6809fc2
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_Microsoft Window_16827428572979ae8ccf6a4adfb6fb82df42c84_00000000_207aae5c-b493-45ac-967d-6b5b69631ec1
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_MicrosoftEdgeUpd_1d1f51ef7187ffc7bfe56b0368b628a228e79_00000000_26e09cae-1fba-4d12-8079-8243c6410cff
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_MicrosoftEdgeUpd_1d1f51ef7187ffc7bfe56b0368b628a228e79_00000000_78f36758-31c1-41dc-8594-71ab8a7377f1
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_MicrosoftEdgeUpd_1d1f51ef7187ffc7bfe56b0368b628a228e79_00000000_ad478dd8-87b1-416b-9c4d-b83a388f717e
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_unspecified_7c7b5c99866c99dcc9b2d9908c26181e10447d5d_00000000_034115f1-3448-4e10-8f06-162505b35477
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_unspecified_d84df13cd355f97b97ff5c5f6537d73a589b1a64_00000000_50a37a9e-9970-45dd-a301-c60da6026e2d
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;GamingSer_155892f656a58cb6acdd1ea956feb9e3657e6139_00000000_eae8c563-a601-406d-aa3f-ede2a6d0bb02
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;GamingSer_1ce1110a06540bf6464391520afe26fa03edde3_00000000_583de448-6f7a-48f8-b7e6-f4c8f892b176
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;GamingSer_2222cf3be6e136834c6db2473e18622ad49f64e_00000000_fa98a9dd-769f-4df7-a8e4-beab26e6d043
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;GamingSer_3920a920101a581630545a12c234ed10d6fc71_00000000_0e036c89-5b65-4f00-bff0-124958cd685a
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;GamingSer_3920a920101a581630545a12c234ed10d6fc71_00000000_e6c95005-e950-4d70-975c-22ac5ac5a85d
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;GamingSer_3920a920101a581630545a12c234ed10d6fc71_00000000_fc4a2af2-728c-44fc-a468-b841ab3178a1
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;GamingSer_576a2d9b31cce6b42a1daf277be6dd8983eead1_00000000_85ad2138-8433-4bed-9f05-f6c32d94a932
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;GamingSer_67fc1384cf2cbd725de204951f8983636268ce2_00000000_d89547ac-aa47-456b-b740-acf514294433
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;GamingSer_b76d241e88bad05c8ef1d2f15bfe97a23dc8474e_00000000_de1c812e-357c-4a47-8b10-d921a41e525f
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;GamingSer_c8bd8aef722dca4ed2f2195ed5eda9feb96e53c_00000000_206c87fc-1cde-4fa3-a8a7-5f7dca49a57e
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;GamingSer_c8bd8aef722dca4ed2f2195ed5eda9feb96e53c_00000000_27dc6038-a7da-4fe1-b3b3-d0cc3e644e4c
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;GamingSer_cae75986c52aaa84bc132a46b563b4fd29ee27_00000000_71162dc4-ea2a-431e-9fc6-44490129c4e1
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;GamingSer_cae75986c52aaa84bc132a46b563b4fd29ee27_00000000_8a61c153-ce25-4c73-9386-c50f38aadedf
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;GamingSer_cd3434bfa51573af3fb4a937616dc3737a79bcf0_00000000_3bc6b992-478e-443d-8441-6d9cf602621b
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;GamingSer_dc7da136abf5d583bbcf75e0fbfd8ae7ef7f7e69_00000000_18f09107-642f-4234-96df-a190fd16144a
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;GamingSer_dc7da136abf5d583bbcf75e0fbfd8ae7ef7f7e69_00000000_9e04c076-f7d1-4066-a7b7-d182de787221
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;GamingSer_dc7da136abf5d583bbcf75e0fbfd8ae7ef7f7e69_00000000_cf514e58-e37f-4b44-a9ee-7028e0adb920
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;GamingSer_e66be7303057d9c5b41333b7fa959f41e3ca476_00000000_2bb452e4-db22-4a08-8d02-96a3d82456fe
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;ScanForUp_3737444d5526d6c4d474f2edd79b9e2cb659d_00000000_6016ff18-2477-4486-8103-e03c71a1f114
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;ScanForUp_5d18c2b91cf941059414ae593baa6e30627fe9_00000000_0d3a79c0-d032-4f40-bdc3-118b1dc422f9
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;ScanForUp_74fcee27d46afd928c33874bf53ddf4f8e04be9_00000000_9760c2bb-1ad2-4bf6-910a-950c108e07cc
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;ScanForUp_aa23a3be1324a3fddc9313e7cecd6483abebb_00000000_ab2b0848-9e04-484d-8835-85375116b838
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;ScanForUp_c8a7beb29616f781bcc7646872e4888e0df599f_00000000_2861be90-1d32-4da1-a12c-d1df4b2c6b01
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;_529549d27d8629ecb8d442932084b16826ecc35_00000000_6092da3d-30ef-4a7b-9624-484b6c891f61
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;_58e62d648fe47da6a8c0e21ce4ce8bd3eac17f0_00000000_72b87df2-7bf9-42f4-a75f-57ef7681e9de
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;_7d61107c69abaf7bb3d30dea31b16c6538c97f_00000000_633004cf-3bfc-40fc-940e-f8533e3a3e6a
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_Update;_c618d3346f168ce5091cdcafcdc9a74cda412_00000000_a0a8de41-a381-47d1-aa80-7927cda85a7b
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_VEN_10DE_51666b4c10f94ffdf8a3a16d80ab90a53cf81c37_00000000_92d81027-6bad-4df3-ba30-6b1c4db6faaf
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_VEN_10DE_6be260bdb1b95ab899919b179b2fba6d9217ab49_00000000_a24f4f69-8999-4fe1-b3a8-5b2ad178c0d0
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_VEN_10DE_8a72b82d914b5a38b04dd186361cd3bd50d73d6f_00000000_23360e54-a8d4-4cd3-a08f-08525dd3598d
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_VEN_10DE_8a72b82d914b5a38b04dd186361cd3bd50d73d6f_00000000_a5ab6206-bbac-4d2a-a459-ede84067a45d
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_VEN_10DE_8a72b82d914b5a38b04dd186361cd3bd50d73d6f_00000000_a5e740ed-72c2-4937-b8ae-9b1e8bca262b
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_VEN_10DE_8a72b82d914b5a38b04dd186361cd3bd50d73d6f_00000000_a8f4d31a-bc41-4eed-a0f0-420181aa243d
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_VEN_10DE_8a72b82d914b5a38b04dd186361cd3bd50d73d6f_00000000_edd6ed7d-4879-4896-95c4-c3604d8384cd
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_VEN_10DE_8a72b82d914b5a38b04dd186361cd3bd50d73d6f_00000000_f79ecd07-907c-4f30-8251-512f34b76a74
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_VEN_10DE_9013c8be95bc885abb8df66d6d91cf1413b95b4_00000000_618f23ad-8fdc-40a8-b033-56ef99df8e53
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_VEN_10DE_9013c8be95bc885abb8df66d6d91cf1413b95b4_00000000_95b17d33-689c-46f4-8f91-f5512932e53e
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_VEN_10DE_9013c8be95bc885abb8df66d6d91cf1413b95b4_00000000_be6f2562-7afd-48ca-ad76-4aad485b3efb
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_VEN_10DE_ce77334dc2e2c967424bbacd9c296223b93b3db_00000000_0fdff69d-092e-4204-9625-3b721b24828b
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_VEN_10DE_ee273e9e30331f44248bf1c2915360987ae6161_00000000_9d614187-8ed4-4902-b80a-7a6578ea1e5d
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_VerifierFailure_42399e2626ae2235d29174d4f3e1397e9741776d_00000000_4ba1d67c-8ea2-4cff-af02-3354a1fa3dc6
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_VerifierFailure_42399e2626ae2235d29174d4f3e1397e9741776d_00000000_6d03a43e-37d7-4310-a621-abc2d8e4fb55
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_VerifierFailure_42399e2626ae2235d29174d4f3e1397e9741776d_00000000_79c7a36c-18a5-48ae-b340-47b4fb67b099
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_VerifierFailure_42399e2626ae2235d29174d4f3e1397e9741776d_00000000_af60b921-b7f1-4618-8e62-9902e8771753
+C:\\\ProgramData\Microsoft\Windows\WER\ReportArchive\NonCritical_VerifierFailure_42399e2626ae2235d29174d4f3e1397e9741776d_00000000_c4219c7f-0192-42a3-a331-354ba455a167
+C:\\\ProgramData\SOLIDWORKS Electrical\MSSQL12.TEW_SQLEXPRESS\MSSQL\Binn\Xtp
+C:\\\Users\All Users\Microsoft\Crypto\PCPKSP\WindowsAIK
+C:\\\Users\All Users\Microsoft\Windows\WindowsApps\Microsoft.GamingServices_3.58.14001.0_x64__8wekyb3d8bbwe
+C:\\\Users\All Users\Microsoft\Windows\WindowsApps\Microsoft.GamingServices_3.58.25004.0_x64__8wekyb3d8bbwe
+C:\\\Users\All Users\Microsoft\Windows\WindowsApps\Microsoft.GamingServices_3.59.1001.0_x64__8wekyb3d8bbwe
+C:\\\Users\All Users\Microsoft\Windows\WindowsApps\Microsoft.GamingServices_3.59.11001.0_x64__8wekyb3d8bbwe
+C:\\\Users\All Users\Microsoft\Windows\WindowsApps\Microsoft.GamingServices_3.60.12001.0_x64__8wekyb3d8bbwe
+C:\\\Users\All Users\Microsoft\Windows\WindowsApps\Microsoft.GamingServices_3.62.18001.0_x64__8wekyb3d8bbwe
+C:\\\Users\All Users\Microsoft\Windows\WindowsApps\Microsoft.GamingServices_3.62.4001.0_x64__8wekyb3d8bbwe
+C:\\\Users\All Users\Microsoft\Windows\WindowsApps\Microsoft.GamingServices_3.63.16003.0_x64__8wekyb3d8bbwe
+C:\\\Users\All Users\Microsoft\Windows\WindowsApps\Microsoft.GamingServices_3.63.22003.0_x64__8wekyb3d8bbwe
+C:\\\Users\All Users\Microsoft\Windows\WindowsApps\Microsoft.GamingServices_3.63.31001.0_x64__8wekyb3d8bbwe
+C:\\\Users\All Users\SOLIDWORKS Electrical\MSSQL12.TEW_SQLEXPRESS\MSSQL\Backup
+C:\\\Users\All Users\SOLIDWORKS Electrical\MSSQL12.TEW_SQLEXPRESS\MSSQL\DATA
+C:\\\Users\All Users\SOLIDWORKS Electrical\MSSQL12.TEW_SQLEXPRESS\MSSQL\JOBS
+C:\\\Users\All Users\SOLIDWORKS Electrical\MSSQL12.TEW_SQLEXPRESS\MSSQL\Log
+C:\\\Users\CLX Ra\AppData\Local\Temp\IYJFB22.tmp.dir
+C:\\\Users\CLX Ra\AppData\Local\Temp\msdtadmin
+C:\\\Users\CLX Ra\AppData\Local\Temp\VBSEC4F.tmp.dir
